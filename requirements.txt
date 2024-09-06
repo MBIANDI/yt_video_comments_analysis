@@ -1,0 +1,8 @@
+selenium
+pandas
+ChromeDriver
+wordcloud
+textblob
+bertopic 
+nltk
+sentence_transformers
