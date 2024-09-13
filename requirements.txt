@@ -6,3 +6,4 @@ textblob
 bertopic 
 nltk
 sentence_transformers
+gensim
