@@ -9,4 +9,4 @@
 4. Comparaison MultiHead Attention vs Self-Attention
 5. Construction d'un modèle transformer de type encodeur-seul
 
-`Suivez vous sur linkedIn: https://www.linkedin.com/in/mariembiandi/`
+`Suivez nous sur linkedIn pour plus de contenu : https://www.linkedin.com/in/mariembiandi/`
