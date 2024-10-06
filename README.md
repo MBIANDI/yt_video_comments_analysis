@@ -8,5 +8,6 @@
 3. Évaluation d'embeddings
 4. Comparaison MultiHead Attention vs Self-Attention
 5. Construction d'un modèle transformer de type encodeur-seul
+6. Introduction à la librairie Hugging Face
 
 `Suivez nous sur linkedIn pour plus de contenu : https://www.linkedin.com/in/mariembiandi/`
