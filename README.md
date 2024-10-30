@@ -10,5 +10,6 @@
 5. Construction d'un modèle transformer de type encodeur-seul
 6. Introduction à la librairie Hugging Face
 7. Text classification with Feature extraction vs fine-tuning
+8. Génération de texte, comparaison de plusieurs algorithmes de décodage.
 
 `Suivez nous sur linkedIn pour plus de contenu : https://www.linkedin.com/in/mariembiandi/`
