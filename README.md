@@ -13,3 +13,6 @@
 8. Génération de texte, comparaison de plusieurs algorithmes de décodage.
 
 `Suivez nous sur linkedIn pour plus de contenu : https://www.linkedin.com/in/mariembiandi/`
+
+
+- utilisez python3.12
