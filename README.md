@@ -3,7 +3,7 @@
 ##  Ce répo contient plusieurs tutoriels sur du NLP. `
 -------------------------------------------------------
 ### Les notebooks
-1. Scrapping et analyse des commentaires youtube
+1. Scrapping et analyse des commentaires youtube : installer ChromeDriver
 2. Comparaison de 3 méthodes d'embeddings: matrice de co-occurence, pointwise mutual information, skip-gramn. Pour ce tutorial, téléchargez les données ici: https://www.kaggle.com/datasets/sahityasetu/paris-2024-olympics-faq 
 3. Évaluation d'embeddings
 4. Comparaison MultiHead Attention vs Self-Attention
@@ -14,5 +14,5 @@
 
 `Suivez nous sur linkedIn pour plus de contenu : https://www.linkedin.com/in/mariembiandi/`
 
-
-- utilisez python3.12
+-------------------------------------------------------
+- 'Utilisez python3.12'
